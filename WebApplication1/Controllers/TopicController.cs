@@ -153,10 +153,7 @@ namespace WebApplication1.Controllers
                 return RedirectToAction("Index", "Home");
             }
 
-            if (!IsUserAuthorizedToEdit(topic))
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.Forbidden);
-            }
+           
 
             var categoryNames = context.Categories.Select(c => c.Name).ToList();
             ViewData["CategoryNames"] = categoryNames;

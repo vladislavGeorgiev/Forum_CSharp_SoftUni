@@ -12414,11 +12414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\Forum_CSharp_SoftUni\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\Forum_CSharp_SoftUni\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\VladislavG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\VladislavG\\Desktop\\WebApplication1\\Forum_CSharp_SoftUni\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
